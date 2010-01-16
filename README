@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2928
+
+Automatically increments and displays version number stored inside  vimrc file itself. Version number is automatically updated when a modified vimrc file is saved.
+
+Displays version number  of vimrc in use when vim is started. This makes it easy to ensure that you have your latest copy of vimrc on different computers.
+
+Also useful if someone you know uses your vimrc wholesale, or if there are a few versions of "standard" versions of vimrc going around in your environment.
